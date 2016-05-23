@@ -1,4 +1,4 @@
-#Credit to Dinesh Smokin at 9:57 PM 
+//Credit to Dinesh Smokin at 9:57 PM 
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
